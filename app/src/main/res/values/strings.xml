@@ -1,0 +1,631 @@
+<resources>
+    <string name="app_name">Caption Center</string>
+    <string name="sample_text">Hyyyy.</string>
+
+
+    <string-array name="attitude">
+
+        <item>If Your EGO Speaks With me Then my Attitude Replies you.</item>
+        <item>His story is history,My story is mystery.</item>
+        <item>Ignore me once and "I'll" show you who is the master of this game.</item>
+        <item>You "Haven't" even seen my bad side yet.</item>
+        <item>Congratulations you lost me.</item>
+        <item>I "Don't" hurt people with a lie,I kill them with Truth.</item>
+        <item>I "Don't" Need to explain myself because I know "I'M" Right.</item>
+        <item>Game bahut achha khela tune lekin Admin galt chun liya</item>
+        <item>"I'm" A Odd combination of Too Good and the Worst.</item>
+        <item>"It's" not my attitude "it's" the way i am.</item>
+        <item>If you "Don't" like me take a map,Get a car drive to hell.Have a Nice Trip.</item>
+        <item>Chill Babe, We are All Bad in someones story.</item>
+        <item>You glow differently when you are actually Happy.</item>
+        <item>In school "you're" given the lesson. Then the test.In life "you're" given the test,then the lesson.</item>
+        <item>My Attitude is reflection of my knowledge not my ego.</item>
+        <item>"Don't" play with me! because i know i can play better than you.</item>
+        <item> Down to earth,but still above you.</item>
+        <item>Life is short "don't" waste it on worry or assholes "you're" welcome.</item>
+        <item>
+            If you think I "can't" live without you What are you? my phone charger.
+        </item>
+        <item>
+            Judge me when you are perfect.
+        </item>
+        <item>
+            You "Don't" like me..? Hate Me..! Problem Solved.
+        </item>
+        <item>
+            If you knew me yesterday u "don't know me anymore.I grow daily.
+        </item>
+        <item>
+            I "Don't" give anyone a reason to hate me.They create their own drama out of pure Jealousy.
+        </item>
+        <item>
+            Mere pass Kamino ki Fauj hai tabhi to zindagi me mauj hai.
+        </item>
+        <item>
+                If they need you temporarily ignore them permanently.
+        </item>
+        <item>
+            Let go of the shit That suffocates Your soul.
+        </item>
+        <item>
+            Some people Hate me bcoz a lot of people love me.
+        </item>
+        <item>
+            People Asked. Why ARE YOU STILL SINGLE? SHE REPLIED: I HAVE BRAIN.
+        </item>
+
+        <item> be so positive that negative people "don't" want to be around you.</item>
+        <item>Main kisi ka bhi karza nahi rakhti hun ek sunti hun toh do suna deti hun.</item>
+        <item>Kill them with kindness and bury them with a smile.</item>
+        <item>SO CUTE WHEN PEOPLE WHO HATE ME FOR NO REASON, TRY TO KNOW EVERYTHING ABOUT ME.</item>
+        <item>BEHIND MY SMILE IS EVERYTHING "YOU'LL" NEVER UNDERSTAND.</item>
+        <item>behind every beautiful girl is the ugly relationship that made her afraid to love again.</item>
+        <item>You think you know me? think again.</item>
+        <item>Always speak how you feel and never be sorry for being real.</item>
+        <item>HELL IS EMPTY AND ALL THE DEVILS ARE HERE.</item>
+        <item>A QUEEN IS NOT BORN,SHE IS MADE.</item>
+        <item>
+            Let them hate.Just Make sure they spell your name right.
+        </item>
+        <item>
+            WHEN YOUR HEART BREAKS,YOUR BRAIN START WORKING.
+        </item>
+        <item>
+            IAM NOT FOR EVERYONE.
+        </item>
+        <item>
+           JO SUDHAR JAAYE WOH HUM NHI,AUR HUME KOI SUDHAAR DE ITNA KISI MAI DAM NHI.
+        </item>
+        <item>
+            Those who fly solo have the strongest wings.
+        </item>
+        <item>
+            Live Life to Express, Not to Impress.
+        </item>
+
+
+    </string-array>
+
+    <string-array name="scenery">
+        <item> Just look at the beauty around you</item>
+        <item>Nature is not a place to visit it is home</item>
+
+        <item>"Let’s" find some beautiful place to get lost</item>
+        <item>Beautiful things "don’t" ask for attention</item>
+        <item>There are no shortcuts to any place worth going</item>
+        <item>The earth has music for those who listen</item>
+        <item>"There’s" no time to be bored in a world as beautiful as this..</item>
+        <item>Get lost in nature and you will find yourself</item>
+        <item>For a minute there, I lost myself
+
+</item>
+        <item>I have a therapist, her name is NATURE</item>
+        <item>There are far better things ahead than the ones we leave behind</item>
+        <item>To walk in nature is to witness a thousand miracles</item>
+        <item>Maa favorite color is sunset</item>
+        <item>Every sunset brings the promise of a new dawn</item>
+        <item>Every sunset is an opportunity to reset</item>
+        <item>Watch more Sunsets than Netflix</item>
+        <item>What a glorious greeting the sun gives the mountains</item>
+        <item>"It’s" not the mountain we conquer, but ourselves</item>
+        <item>You are not in the mountains. The mountains are in you.</item>
+        <item> Every mountain top is within reach if you just keep climbing</item>
+        <item>The best view comes after the hardest climb</item>
+        <item>I love places that make you realize how tiny you and your problems are</item>
+        <item> Life should have more mountains and less stress</item>
+        <item>Hike more. Worry Less.</item>
+        <item>Life is like a mountain, hard to climb, but worth the amazing view from the top</item>
+        <item>. Life is either a daring adventure or nothing at all</item>
+        <item>Look deep into nature, and then you will understand everything better</item>
+        <item>Always take the scenic route</item>
+        <item> If you truly love nature, you will find beauty everywhere</item>
+        <item>Adopt the peace of nature her secret is patience</item>
+        <item>Capture the moment..It lives forever..</item>
+        <item>Nature never goes out of style</item>
+        <item>Colors are the smiles of nature</item>
+        <item>Nature is the art of God</item>
+        <item>Nature is not on the internet</item>
+        <item>Nature – cheaper than therapy</item>
+        <item>The silence of nature is very real. It surrounds you..you can feel it.</item>
+        <item>I believe in God, only I spell it NATURE</item>
+        <item>Nature itself is the best physician</item>
+        <item>Choose only one master – NATURE</item>
+        <item>My definition of beautiful – The Nature</item>
+        <item>Nature is not a place to visit. IT IS HOME.</item>
+        <item>Nature is one of your greatest teachers</item>
+        <item>Nature is painting for us, day after day, picture of infinite beauty</item>
+        <item>Every flower is a soul blossoming in nature</item>
+        <item>The Earth laughs in flowers</item>
+        <item> Spring is nature’s way of saying, ‘Let’s party!’</item>
+        <item>Autumn, the year’s last loveliest smile</item>
+        <item>Autumn is a second spring when every leaf is a flower</item>
+        <item>Snowflakes are kisses from heaven</item>
+        <item>Sunshine is the best medicine</item>
+        <item>Nothing is more beautiful than the loveliness of the woods before sunrise</item>
+        <item>Get lost in the forest and "Don’t" find a way back</item>
+        <item>The forest makes your heart gentle
+
+</item>
+        <item>And So..The Adventure BEGINS..!!</item>
+        <item>The greatest adventure is what lies ahead</item>
+        <item>"It’s" a big world out there..Explore</item>
+        <item>If sky is the limit, then go there</item>
+        <item>Going where the wind blows!</item>
+        <item> Fly high and touch the sky</item>
+        <item> "Let’s" sleep under the STARS</item>
+        <item>On the top of mountains and beneath the stars</item>
+        <item>I find my happiness where the sun shines</item>
+        <item>There is a pleasure in the pathless woods</item>
+        <item>"It’s" time for a new adventure</item>
+        <item>I love walks, hiking, exploring and being on the beach</item>
+        <item>Climb up on some hill at sunrise</item>
+        <item>The mountains are calling and I must go</item>
+        <item> Say yes to new adventures</item>
+        <item>The world is ours to explore</item>
+        <item>"Don’t" go through life, grow through life</item>
+        <item>"Don’t" Just Exist, Live</item>
+        <item>Wherever you are, be all there</item>
+        <item>No one rises suddenly in the world, not even the sun</item>
+        <item>Sunsets are "God’s" way of telling us that tomorrow will be beautiful</item>
+        <item>To watch a sunset is to connect with the divine</item>
+        <item> Cherish every sunset</item>
+        <item>Peace is seeing the sunrise or a sunset</item>
+        <item>I love waking up in the morning with sun in my face</item>
+        <item>Sunsets on the mountain are hard to beat</item>
+        <item> Sky above, earth below, and peace within</item>
+        <item>Life is better in hiking boots</item>
+        <item>Wild is my favorite color</item>
+        <item> It is in the still silence of nature where one will find true bliss</item>
+        <item>Some beautiful paths can’t be discovered without getting lost</item>
+        <item>I think that I shall never see a poem lovely as a tree</item>
+        <item>The poetry of earth is never dead</item>
+        <item>Nature speaks softly..you have to listen to it carefully</item>
+        <item>In all things of nature there is something of the marvelous</item>
+        <item>What a Wonderful World?</item>
+        <item>Keep close to nature’s heart</item>
+        <item>Take time to enjoy the natural Beauty that surrounds you</item>
+        <item>This place for sunrise is everything</item>
+        <item>With every rising of the sun, think of your life as just begun</item>
+        <item>Behind the clouds is the sun still shining</item>
+        <item>Happiness is sun, sand and a drink in my hand</item>
+    </string-array>
+
+    <string-array name="beach">
+        <item>Life is better at the Beach!</item>
+        <item>Time spent at the BEACH is never wasted</item>
+        <item> I followed my heart and it led me to the BEACH</item>
+        <item>Life is a BEACH enjoy the WAVES</item>
+        <item>Let the countdown to the Beach begin!</item>
+        <item>"I’m" a true OCEANHOLIC!</item>
+        <item>I need Vitamin SEA</item>
+        <item>"I’m" happiest when floating in the sea</item>
+        <item>I am happy anywhere I can see the OCEAN</item>
+        <item>The smell of the ocean never gets old</item>
+        <item>Beach More Worry Less</item>
+        <item>"Don’t" worry BEACH happy</item>
+        <item>Nothing soothes the soul like a walk on the beach</item>
+        <item>BEACH: Heaven On Earth</item>
+        <item>The beach is calling, I must go..</item>
+        <item>Palm trees, ocean breeze, salty air, sun kissed hair, the endless summer take me there</item>
+        <item>I love the beach, and I love sunshine</item>
+        <item>Sunshine is my favorite accessory</item>
+        <item>Life takes you down many paths but my favorite one leads to the Beach</item>
+        <item> I can leave the sea but the sea never leaves me</item>
+        <item>I love being on the beach – "it’s" my favorite place</item>
+        <item>The waves of the sea help me get back to me</item>
+        <item>The ocean calms my restless soul</item>
+        <item>The best days are beach days</item>
+        <item>"Let’s" go to the beach</item>
+        <item>Hear the sound of the waves and relax</item>
+        <item>The voice of the sea speaks to the soul</item>
+        <item>A day at the beach restores the soul</item>
+        <item>The sea lives in every one of us</item>
+        <item>You are lucky enough to live by the sea</item>
+        <item>Find me under the Palms!</item>
+        <item>Find me where the waves are!</item>
+        <item>Sun, Sea, the Sand and ME</item>
+        <item>Happiness is..a day at BEACH</item>
+        <item>Happiness is..blue sea and white sand</item>
+        <item> Happiness comes in waves</item>
+        <item>Happiness is..good book and a beach</item>
+        <item>Happiness comes in salty water</item>
+        <item>All I need are palm trees and a cool breeze</item>
+        <item>B.E.A.C.H – Best Escape Anyone Can Have!</item>
+        <item>"There’s" no place like the Beach</item>
+        <item>A walk on the beach in priceless</item>
+        <item> High Tides Good Vibes</item>
+        <item>As free as the ocean</item>
+        <item>Let the sea set you free</item>
+        <item>Sink beneath the surface and you are free</item>
+        <item>Seek to Sea More!</item>
+        <item>The tans will fade, but the memories will last forever</item>
+        <item>All I want is to watch some waves roll in</item>
+        <item>All I need is a few days at the Beach</item>
+        <item>Everything is better at the BEACH</item>
+        <item>You can never have too much Beach</item>
+        <item> Sometimes you just have to go with the waves</item>
+        <item> Life is different at the Beach</item>
+        <item>Sky above our heads. Sand beneath our feet. Life is good.</item>
+        <item>Smell the sea, Feel the breeze, Hear the ocean, Be at ease</item>
+        <item> The BEACH: Free Therapy for the soul</item>
+        <item>Home is where the waves crash</item>
+        <item>HOME is where WAVES are</item>
+        <item>Every time I slip into the ocean, it’s like going home</item>
+        <item>I want to live by the Sea</item>
+        <item>A life without the beach is no life at all</item>
+        <item>"It’s" time for the sun, sea and sand</item>
+        <item>Brave and Free and Wild as the SEA</item>
+        <item>Get away from it all..find your peace on the beach</item>
+        <item>At the beach – time you enjoyed wasting, is not time wasted</item>
+        <item>The ocean is a poem without words</item>
+        <item>The Ocean soothes the soul</item>
+        <item>Surrounded by beauty, as far as sight goes</item>
+        <item>You can find me where the music meets the ocean
+
+</item>
+        <item>Meet me where the sky touches the sea</item>
+        <item>I want to run the beach’s length, because it never ends!</item>
+        <item>An early morning walk is a blessing for the whole day</item>
+        <item>"Don’t" worry, beach happy.</item>
+        <item>Beach hair, "don't" care.</item>
+        <item>Getting my daily dose of Vitamin Sea.</item>
+        <item>A good beach day keeps the doctor away.</item>
+        <item>"Life's" a beach.</item>
+        <item>Eat. Sleep. Beach. Repeat.</item>
+        <item>Less worries, more sunshine.
+</item>
+        <item>Sunshine is the best medicine.
+</item>
+        <item>I can sea clearly now.
+</item>
+        <item>"I followed my heart and it led me to the beach."</item>
+        <item>"Life takes you down many paths, but my favorite ones lead to the beach."</item>
+        <item>"Live in the sunshine, swim the sea, drink the wild air."</item>
+        <item>"If "there’s" heaven for me, "I’m" sure it has a beach attached to it."</item>
+        <item>"You’re not a wave, "you’re" a part of the ocean."</item>
+        <item>"To escape and sit quietly on the beach — "that’s" my idea of paradise."</item>
+    </string-array>
+
+    <string-array name="coffee">
+        <item>Never Underestimate the Importance of Being Properly Caffeinated.</item>
+        <item>Good Coffee – Cheaper than Prozac!</item>
+        <item>Coffee is a way of stealing time which should by rights belong to your older self.</item>
+        <item>No one can understand the truth until he drinks of coffee’s frothy goodness.</item>
+        <item>To an old man a cup of coffee is like the door post of an old house — it sustains and strengthens him.</item>
+        <item>People say money can’t buy happiness. They Lie. Money buys Coffee, Coffee makes Me Happy!</item>
+        <item>Decaffeinated coffee is like a hairless cat, it exists, but that doesn’t make it right.</item>
+        <item>Coffee makes us severe, and grave, and philosophical.</item>
+        <item>I orchestrate my mornings to the tune of coffee.</item>
+        <item>Conscience keeps more people awake than coffee.</item>
+        <item>Should I kill myself, or have a cup of coffee?</item>
+        <item>My coffee machine is the most beautiful person in the world to me.</item>
+        <item>Sometimes I stay up so late that I have my morning coffee before I go to bed.</item>
+        <item>Good communication is as stimulating as black coffee, and just as hard to sleep after.</item>
+        <item>Drinking beer in a coffee mug. I feel like I am cheating on my coffee.</item>
+        <item>We are cups, constantly and quietly being filled. Trick is knowing how to tip ourselves over and let the beautiful stuff out.</item>
+        <item>Coffee is the best thing to douse the sunrise with.</item>
+        <item>Everyone should believe in something. I believe I will have another coffee.</item>
+        <item>Coffee should be black as Hell, strong as death, and sweet as love.</item>
+        <item>I "don’t" know what "I’d" do without coffee. "I’m" guessing 25 to life.</item>
+        <item>Science may never come up with a better office communication system than the coffee break.</item>
+        <item>A 41-inch bust and a lot of perseverance will get you more than a cup of coffee – a lot more.</item>
+        <item>Good communication is just as stimulating as black coffee, and just as hard to sleep after.</item>
+        <item>7 days without coffee makes one WEAK.</item>
+        <item>Caffeine — It maintains my sunny personality.</item>
+        <item>The powers of a "man’s" mind are directly proportional to the quantity of coffee he drank.</item>
+        <item>"I’m" going to start measuring the complexity of coding tasks in coffee cups. “This was a five-espresso algorithm.”</item>
+        <item>A mathematician is a device for turning coffee into theorems.</item>
+        <item>Coffee smells like freshly ground heaven.</item>
+        <item>Decaf? No, "it’s" dangerous to dilute my caffeine stream.</item>
+        <item>Doctors found traces of blood in my coffee stream.</item>
+        <item>Did I run out of caffeine or are you really that boring?</item>
+        <item>If it "wasn’t" for coffee, "I’d" have no discernible personality at all.</item>
+        <item>Compared to Clinton, I feel like a loser. I "can’t" even get the intern to make me coffee!</item>
+        <item>Coffee which makes the politician wise, and see through all things with his half-shut eyes.</item>
+        <item>I like my coffee with cream and my literature with optimism.</item>
+        <item>I like my coffee strong and my women weak.</item>
+        <item>Coffee. Creative lighter fluid.</item>
+        <item>A morning without coffee is like sleep.</item>
+        <item>Every morning I long to hold you…I need you, I want you, I have to have you…your warmth, your smell, your taste…ohhh coffee, I love you.</item>
+        <item>Drink coffee! Do Stupid Things Faster with More Energy.</item>
+        <item>Coffee! Is the planet shaking or is just me?</item>
+        <item>How far behind would technology be, if no one ever discovered coffee?</item>
+        <item>"I’m" a romantic. I like cold Coffee and orgasms that arrive fifteen minutes after "I’ve" put on my clothes and paid the lady.</item>
+        <item>Even bad coffee is better… than no Coffee at all.</item>
+        <item>Adventure in life is good… consistency in Coffee even better.</item>
+        <item>I like instant gratification. "It’s" like instant Coffee, only it "won’t" keep you up all night.</item>
+        <item>What do you want?… Just Coffee. Black – like my soul.</item>
+        <item>I would rather suffer with coffee than be senseless.</item>
+        <item>I never drink coffee at lunch. I find it keeps me awake for the afternoon.</item>
+        <item>Television is not real life. In real life people actually have to leave the coffee shop and go to jobs.</item>
+        <item>Like everyone else who makes the mistake of getting older, I begin each day with coffee and obituaries.</item>
+        <item>If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.</item>
+        <item>A cup of gourmet coffee shared with a friend is happiness tasted and time well spent.</item>
+        <item>Adventure in life is good. Consistency in coffee even better.</item>
+        <item>A morning without coffee is like sleep.</item>
+        <item>"Life’s" too short to drink cheap coffee.</item>
+        <item>Everybody should believe in something. I believe "I’ll" have another coffee.</item>
+        <item>The road to success is paved in coffee.</item>
+        <item>This coffee tastes like mud! Well, it was ground this morning.</item>
+        <item>I think if I were a woman "I’d" wear coffee as a perfume.</item>
+        <item>There is no live without water. Because water is needed to make coffee.</item>
+        <item>To drink is human. To drink coffee is divine.</item>
+        <item>Given enough coffee I could rule the world.</item>
+        <item>A cup of coffee shared with a friend is happiness tasted and time well spent.</item>
+        <item>I "don’t" have a problem with caffeine. I have a problem without it.</item>
+        <item>Drink Coffee. Do stupid things even faster with more energy.</item>
+        <item>Caffeine-The other Vitamin C.</item>
+        <item>I have measured out my life with coffee spoons.</item>
+        <item>Black as the devil, hot as hell, pure as an angel, sweet as love.</item>
+        <item>Caffeine "isn’t" a drug, "it’s" a vitamin.</item>
+        <item>Coffee is a beverage that puts one to sleep when not drank.</item>
+        <item>Sleep is a symptom of caffeine deprivation.</item>
+        <item>Decaffeinated coffee is kind of like kissing your sister.</item>
+        <item>"There’s" nothing sweeter than a cup of bitter coffee.</item>
+
+    </string-array>
+
+    <string-array name="travel">
+        <item>“THE WORLD IS A BOOK AND THOSE WHO DO NOT TRAVEL READ ONLY A PAGE.”</item>
+        <item>“NOT ALL THOSE WHO WANDER ARE LOST”</item>
+        <item>“LIFE IS EITHER A DARING ADVENTURE OR NOTHING AT ALL”</item>
+        <item>“TAKE ONLY MEMORIES, LEAVE ONLY FOOTPRINTS”</item>
+        <item>“TRAVEL IS  FATAL TO PREJUDICE, BIGOTRY, AND NARROW MINDEDNESS, AND MANY OF OUR PEOPLE NEED IT SORELY ON THESE ACCOUNTS.”</item>
+        <item>” THE REAL VOYAGE OF DISCOVERY CONSISTS NOT IN SEEKING NEW LANDSCAPES, BUT IN HAVING NEW EYES.” </item>
+        <item>“TRAVEL MAKES ONE MODEST, YOU SEE WHAT A TINY PLACE YOU OCCUPY IN THE WORLD.”</item>
+        <item>NEVER GO ON TRIPS WITH ANYONE YOU DO NOT LOVE.”</item>
+        <item>“TRAVELING IT LEAVES YOU SPEECHLESS, THEN TURNS YOU INTO A STORYTELLER.”</item>
+        <item>“IF YOU THINK ADVENTURE IS DANGEROUS, TRY ROUTINE, "IT'S" LETHAL”</item>
+        <item>“GREAT THINGS NEVER CAME FROM COMFORT ZONES.”</item>
+        <item>“IF YOU ARE ALWAYS TRYING TO BE NORMAL, YOU WILL NEVER KNOW HOW AMAZING YOU CAN BE.”</item>
+        <item>“STOP WORRYING ABOUT THE POTHOLES IN THE ROAD AND ENJOY THE JOURNEY”</item>
+        <item>“FEAR IS ONLY TEMPORARY. REGRETS LAST FOREVER.”</item>
+        <item>“LIFE BEGINS AT THE END OF YOUR COMFORT ZONE.”</item>
+        <item>“TRAVEL "DOESN'T" BECOME ADVENTURE UNTIL YOU LEAVE YOURSELF BEHIND”</item>
+        <item>“CLIMB THE MOUNTAIN SO YOU CAN SEE THE WORLD, NOT SO THE WORLD CAN SEE YOU.</item>
+        <item>“JOBS FILL YOUR POCKET BUT ADVENTURES FILL YOUR SOUL.”</item>
+        <item>“"DON'T" WORRY ABOUT THE WORLD ENDING TODAY, "IT’S" ALREADY TOMORROW IN AUSTRALIA.”</item>
+
+
+        <item>DRINK HEAVILY WITH LOCALS WHENEVER POSSIBLE </item>
+        <item>I TOLD THE DOCTOR I BROKE MY LEG IN TWO PLACES. HE TOLD ME TO QUIT GOING TO THOSE PLACES</item>
+        <item>THERE IS NOTHING SAFER THAN FLYING, "IT’S" CRASHING THAT IS DANGEROUS</item>
+        <item>I ALWAYS LIKE TO GO TO WASHINGTON D.C. IT GIVES ME A CHANCE TO VISIT MY MONEY.</item>
+        <item>JET LAG IS FOR AMATEURS</item>
+        <item>“TRAVEL IS GLAMOROUS ONLY IN RETROSPECT.”</item>
+        <item>I WISH I HAD NEVER GONE TRAVELING. SAID NO ONE EVER.</item>
+        <item>“MAN CANNOT DISCOVER NEW OCEANS UNLESS HE HAS THE COURAGE TO LOSE SIGHT OF THE SHORE.”</item>
+        <item>“ "IT'S" BETTER TO TRAVEL WELL THAN TO ARRIVE”</item>
+        <item>“TRAVEL IS THE ONLY THING YOU BUY THAT MAKES YOU RICHER.”</item>
+        <item>“IT IS BETTER TO SEE SOMETHING ONCE THAN TO HEAR ABOUT IT A THOUSAND TIMES.”</item>
+        <item>“THE REAL VOYAGE OF DISCOVERY CONSISTS NOT IN SEEKING NEW LANDSCAPES, BUT HAVING NEW EYES.”</item>
+        <item> “WHEN WAS THE LAST TIME YOU DID SOMETHING FOR THE FIRST TIME?”</item>
+        <item>“SOMEDAY "I'M" GOING TO BE FREE AND "I'M" GOING TO TRAVEL THE WORLD”</item>
+        <item>“LIVE WITH NO EXCUSES AND TRAVEL WITH NO REGRETS”</item>
+        <item>“WE TRAVEL NOT TO ESCAPE LIFE BUT FOR LIFE NOT TO ESCAPE US.”</item>
+
+
+        <item>“PEOPLE "DON'T" TAKE TRIPS, TRIPS TAKE PEOPLE.”</item>
+        <item>“ "DON'T" LISTEN TO WHAT THEY SAY, GO SEE”</item>
+        <item>"DON'T" QUIT YOUR DAY DREAM</item>
+        <item>“I "DON'T" KNOW WHERE "I'M" GOING, BUT "I'M" ON MY WAY”</item>
+        <item>OH, THE PLACES "YOU'LL" GO.</item>
+        <item>“TRY TO BE A RAINBOW IN SOMEONE "ELSE'S" CLOUD”</item>
+        <item>"LIFE'S" A JOURNEY, NOT A DESTINATION</item>
+        <item>“WHERE TO NEXT?”</item>
+        <item>“TO TRAVEL IS TO LIVE”</item>
+        <item>“I WANT TO MAKE MEMORIES ALL OVER THE WORLD”</item>
+
+
+        <item>“TO TRAVEL IS TO DISCOVER THAT EVERYONE IS WRONG ABOUT OTHER COUNTRIES.”</item>
+        <item>“YOU MUST BE THE CHANGE YOU WISH TO SEE IN THE WORLD.”</item>
+
+
+        <item>“TO TRAVEL IS TO DISCOVER THAT EVERYONE IS WRONG ABOUT OTHER COUNTRIES.”</item>
+        <item>“YOU MUST BE THE CHANGE YOU WISH TO SEE IN THE WORLD.”</item>
+
+        <item>“WITHOUT NEW EXPERIENCES, SOMETHING INSIDE US SLEEPS. THE SLEEPER MUST AWAKEN.”</item>
+        <item>“THOSE WHO FOLLOW THE CROWD USUALLY GET LOST IN IT.”</item>
+        <item>“DOING WHAT YOU LIKE IS FREEDOM, LIKING WHAT YOU DO IS HAPPINESS.”</item>
+        <item>“BECAUSE WHEN YOU STOP AND LOOK AROUND, THIS LIFE IS PRETTY AMAZING.”</item>
+        <item>“THIS HEART OF MINE WAS MADE TO TRAVEL THIS WORLD”</item>
+        <item>“THE IMPULSE TO TRAVEL IS ONE OF THE HOPEFUL SYMPTOMS OF LIFE”</item>
+        <item>“ "LET'S" FIND SOME BEAUTIFUL PLACE TO GET LOST”</item>
+        <item>“ "I'M" IN LOVE WITH CITIES "I'VE" NEVER BEEN TO AND PEOPLE "I'VE" NEVER MET.”</item>
+        <item>“ TRAVEL…THE BEST WAY TO BE LOST AND FOUND AT THE SAME TIME.”</item>
+        <item>“THE JOURNEY IS MY HOME.”</item>
+        <item>“ "IT'S" A BIG WORLD OUT THERE, IT WOULD BE A SHAME NOT TO EXPERIENCE IT.”
+</item>
+
+        <item>“ LIFE "ISN'T" ABOUT FINDING YOURSELF , LIFE IS ABOUT CREATING YOURSELF.”</item>
+        <item>“IF YOUR SHIP "DOESN'T" COME IN, SWIM OUT TO IT.”</item>
+
+
+        <item>“YOU CAN SHAKE THE SAND FROM YOUR SHOES, BUT NOT FROM YOUR SOUL.”</item>
+        <item>“WE WANDER FOR DISTRACTION, BUT WE TRAVEL FOR FULFILLMENT.”</item>
+        <item>“IT "DOESN'T" MATTER WHERE "YOU'RE" GOING, "IT'S" WHO YOU HAVE BESIDE YOU.</item>
+        <item>“TRAVELING IS NOT SOMETHING "YOU'RE" GOOD AT. "IT'S" SOMETHING YOU DO, LIKE BREATHING.”</item>
+        <item>“ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME THAT IS GIVEN US.”</item>
+        <item>“IT FEELS GOOD TO BE LOST IN THE RIGHT DIRECTION.”</item>
+        <item>“TRAVELING ALLOWS YOU TO BECOME SO MANY DIFFERENT VERSIONS OF YOURSELF.”</item>
+        <item>“TRAVEL HAS A WAY OF STRETCHING THE MIND.”</item>
+        <item>“ALL JOURNEYS HAVE SECRET DESTINATIONS OF WHICH THE TRAVELER IS UNAWARE.”</item>
+        <item>“A JOURNEY IS BEST MEASURED IN FRIENDS RATHER THAN MILES.”</item>
+        <item>“JUST GO. GO SEE ALL THE BEAUTY IN THE WORLD”</item>
+        <item>“I TRAVEL NOT TO GO ANYWHERE BUT TO GO. I TRAVEL FOR "TRAVEL'S" SAKE.”</item>
+        <item>PARIS IS ALWAYS A GOOD IDEA</item>
+        <item>“YOU ONLY LIVE ONCE, BUT IF YOU DO IT RIGHT, ONCE IS ENOUGH.”</item>
+        <item>“ONCE A YEAR, GO SOMEPLACE "YOU'VE" NEVER BEEN BEFORE.”</item>
+        <item>“THERE IS NO MOMENT OF DELIGHT IN ANY PILGRIMAGE LIKE THE BEGINNING OF IT”</item>
+        <item>“TRY TO BE A RAINBOW IN SOMEONE "ELSE'S" CLOUD”</item>
+
+
+    </string-array>
+
+
+    <string-array name="friendship">
+        <item>“Sometimes being with your best friend is all the therapy you need.”</item>
+        <item>“Friends are the siblings God never gave us.”</item>
+        <item>“True friends are like diamonds — bright, beautiful, valuable, and always in style.”</item>
+        <item>“There is nothing on this earth more to be prized than true friendship.”</item>
+        <item>“Friends are the family you choose.“</item>
+        <item>“ "Don’t" make friends who are comfortable to be with. Make friends who will force you to lever yourself up.” </item>
+        <item>“The most beautiful discovery true friends make is that they can grow separately without growing apart.”</item>
+        <item>“Life is partly what we make it, and partly what it is made by the friends we choose.”</item>
+        <item>“They may forget what you said, but they will never forget how you made them feel.”</item>
+        <item>“Find a group of people who challenge and inspire you; spend a lot of time with them, and it will change your life.”</item>
+        <item>“The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.”</item>
+        <item>“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.”</item>
+        <item>“A real friend is one who walks in when the rest of the world walks out.”</item>
+        <item>“A friend is someone who understands your past, believes in your future, and accepts you just the way you are.”</item>
+        <item>“Growing apart "doesn’t" change the fact that for a long time we grew side by side; our roots will always be tangled. "I’m" glad for that.”</item>
+        <item>“Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.”</item>
+        <item> “" It’s" not what we have in life, but who we have in our life that matters.”</item>
+        <item>“To the world you may be just one person, but to one person you may be the world.”</item>
+        <item>“A friend is one who overlooks your broken fence and admires the flowers in your garden.”</item>
+        <item>“A friend who understands your tears is much more valuable than a lot of friends who only know your smile.”</item>
+        <item> “A friend is one of the best things you can be and the greatest things you can have.”</item>
+        <item>“Best friends are the people in your life who make you laugh louder, smile brighter and live better.”</item>
+        <item>“Time "doesn’t" take away from friendship, nor does separation.”</item>
+        <item>“When the world is so complicated, the simple gift of friendship is within all of our hands.”</item>
+        <item>“ "There’s" not a word yet for old friends "who’ve" just met.”</item>
+        <item>A single rose can be my garden…a single friend, my world.”</item>
+        <item>“Friendship is the only cement that will ever hold the world together.”</item>
+        <item>“Friends are those rare people who ask how we are and then wait to hear the answer.”</item>
+        <item>“A friend knows the song in my heart and sings it to me when my memory fails.”</item>
+        <item>“ "It’s" the friends you can call up at 4 a.m. that matter.”</item>
+        <item>“Truly great friends are hard to find, difficult to leave, and impossible to forget.”</item>
+        <item>“A good friend is like a four-leaf clover; hard to find and lucky to have.”</item>
+        <item>“I would rather walk with a friend in the dark, than alone in the light.”</item>
+        <item>“True friends are never apart, maybe in distance but never in heart.”</item>
+        <item>“No friendship is an accident.”</item>
+
+
+        <item>“Anything is possible when you have the right people there to support you.”</item>
+        <item>“A sweet friendship refreshes the soul.”</item>
+        <item> “Life was meant for good friends and great adventures.”</item>
+        <item>“True friends are always together in spirit.”</item>
+        <item>“You "don’t" have to be crazy to be my friend. "I’ll" train you.”</item>
+        <item>“There is nothing better than a friend, unless it is a friend with chocolate.“</item>
+        <item>“‘Tis the privilege of friendship to talk nonsense, and to have her nonsense respected.”</item>
+        <item>“A true friend never gets in your way unless you happen to be going down.”</item>
+        <item>“A best friend is someone who makes you laugh even when you think "you’ll" never smile again.”</item>
+        <item> “Best friends. Because if anyone else heard our conversations "we’d" end up in the mental hospital.”</item>
+        <item> “Best friends don’t care if your house is clean. They care if you have wine.”</item>
+        <item>“If you are ever lucky enough to find a weirdo, never let them go.”</item>
+        <item>“I think "we’ll" be friends forever because "we’re" too lazy to find new friends.”</item>
+        <item>“Friends buy you food. Best friends eat your food.”</item>
+        <item>“God made us best friends because he knew our moms "couldn’t" handle us as sisters.”</item>
+        <item>“ "We’ll" be the old ladies causing trouble in the nursing home.”</item>
+        <item>“ "We’ll" be best friends forever because you already know too much.”</item>
+        <item>“True friendship is when you walk into their house and your WiFi connects automatically.”</item>
+        <item>“Never let your best friends get lonely…keep disturbing them.”</item>
+        <item>“I love that our effortless friendship fits perfectly with my laziness.”</item>
+        <item> “The essence of true friendship is to make allowance for "another’s" little lapses.”</item>
+        <item>“A friend can tell you things you "don’t" want to tell yourself.”</item>
+        <item>“Friendship is always a sweet responsibility, never an opportunity.”</item>
+        <item>“Friends…they cherish one "another’s" hopes. They are kind to one "another’s" dreams.”</item>
+        <item>“The only way to have a friend is to be one.”</item>
+        <item> “My best friend is the man who in wishing me well wishes it for my sake.”</item>
+        <item>“Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation.”</item>
+        <item>“Real friendship, like real poetry, is extremely rare — and precious as a pearl.”</item>
+        <item>“My best friend is the one who brings out the best in me.”</item>
+        <item>“If you live to be 100, I hope I live to be 100 minus 1 day, so I never have to live without you.”</item>
+        <item>“Love is friendship set on fire.”</item>
+        <item>“The love that comes from friendship is the underlying facet of a happy life.”</item>
+        <item>“Friendship is accepting a person with all their qualities — good and bad.”</item>
+        <item>“ "It’s" not being in love that makes me happy. It is the person that I am in love with that does.”</item>
+
+    </string-array>
+
+
+    <string-array name="birthday">
+        <item>Birthdays are "nature’s" way of telling us to eat more cake!</item>
+        <item>On your birthday "I’m" going to share the secret to staying young: lie about your age.</item>
+        <item>“You deserve everything happy. Wishing you that all year long!”</item>
+        <item>On your birthday I wish you success and endless happiness!.Wishing you an awesome birthday!</item>
+        <item>Happy birthday to my closest and oldest friend! I feel blessed, because our friendship is a true gift of life.</item>
+        <item>May your birthday and your life be as wonderful as you are . Happy Birthday</item>
+        <item> Wish you a beautiful birthday and I hope you get double of everything you want in your life. Happy Birthday!</item>
+        <item>May your sweet smile never fade away. I wish you a very happy and sweet birthday. Good bless you.</item>
+        <item>My dear friend, may your special day be full of beautiful, magical and unforgettable moments!</item>
+        <item>You are my special friend,I love you from the core of my heart,"I'll" keep you near always.Happy Birthday Dear Friend.</item>
+        <item>Thinking of you and the good times we spent make me smile! Happy birthday to a friend who is always close to my heart.</item>
+        <item>Happy Birthday Dear Sister You Are Amazing You Are Special You Are Unique You Are Kind You Are Precious You Are Loved.</item>
+        <item>My crazy, loving, caring and fun little sister, life without you would have been a crazy twister. Happy birthday</item>
+        <item>Happy Birthday you are a beautiful person, inside and out .I hope that you remember that,today and always.</item>
+        <item>Wish a fabulous birthday to my cutest baby</item>
+        <item>Maybe I am not telling it so often, but I value our friendship.Friends like you make life special!</item>
+        <item>Wishing you an awesome day,With good luck on your way, Stay blessed and happy this day, My dear friend on your birthday today</item>
+        <item>Though I "don’t" talk to you every day but you always remain the deepest core of my heart. Happy Birthday, Sister. </item>
+        <item>Your birthday is more special to me than you, because on this day, I got the most precious gift of my life. Happy Birthday</item>
+        <item>You are as beautiful today as the first day I saw you. You will always have my heart and my love. Happy Birthday!</item>
+        <item>"I’m" sorry I "can't" be with you on your special day but I will always be there for you in mind and spirit. I wish for you a wonderful birthday!</item>
+        <item>Αs you celebrate your day, Ι celebrate the beautiful friendship WΕ share! Happy Birthday, Lovely friend.</item>
+        <item>You are very special and you deserve the best. I wish you a wonderful life filled with love and happiness. Happy Birthday.</item>
+        <item>You are very special and "that’s" why you need to float with lots of smiles on your lovely face. Happy birthday.</item>
+        <item>May your birthday bring you as much happiness as you give to everyone who knows you Happy Birthday!</item>
+        <item>Thanks for all the support that you have given to me.thank you for being such a kind and loving friend. Happy birthday friend.</item>
+        <item> A cute brother like you deserve all the happiness in life,For today and forever in time,Happy birthday bro,Have a nice day!</item>
+        <item>Enjoy your birthday, bro! You deserve it</item>
+        <item>Hope this year will be better than last year and all true wishes come true. I wish you a healthy , wealthy and a very Happy Birthday!</item>
+        <item>Happy birthday to my true friend who was always there for me through all ups and downs. Today is your Big Day, so let the celebration begin!</item>
+        <item>My dear friend, may your special day be full of beautiful, magical and unforgettable moments!</item>
+        <item>Happy Birthday you are a beautiful person, inside and out .I hope that you remember that,today and always.</item>
+        <item>Happy birthday to our coolest teacher. No words can express all the respect and admiration that we have for you!</item>
+        <item> You are one of our favourite teachers. You have taught us what is right and what is wrong. Wishing you a very Happy Birthday, dear teacher!</item>
+        <item>By teaching me math, you "didn’t" just teach me how to add numbers but also how to add value to my life. Happy birthday teacher.</item>
+        <item>A whole day to celebrate.Happy birthday to me</item>
+        <item>Just want to THANK ALL OF YOU for making me feel special on my Birthday,Love You Guys.</item>
+        <item>"I`m" not just a year older "I`m" also a year better and prettier.I know your jealous.</item>
+        <item>Yes, today is my birthday, Therefore I will be treated like a Queen..</item>
+        <item>Hey Everyone..Eat, drink and make merry because it is my birthday.</item>
+        <item>Blow your candles,Make a wish, And I will give you Sweet big kiss</item>
+        <item>Happy birthday to my Beautiful I hope it is all u want it to be I cant believe. This year you are free Happy Birth Day</item>
+        <item>Thinking of you with love on your birthday and wishing you everything that brings you happiness today and always.</item>
+        <item>I wish I could attach my heart to this Birthday wish. "That's" how much you mean to me. I wish you always be happy and "I'll" do everything to make you so</item>
+        <item>Your Birthday is such a special day in my life- almost as special as you are to me. Happy Birthday baby!</item>
+        <item>Caring, loving, generous, kind, amazing... Words fall short to describe you! Wishing a very Happy Birthday to the "'most perfect guy'" ever!</item>
+        <item>Your unconditional love has always helped me to feel warm and safe. Thanks. Happy Birthday</item>
+        <item>Thinking of you with love on your birthday and wishing you everything that brings you happiness today and always. Happy Birthday</item>
+        <item>Thanks for all the support over the years. You make it so much easier and worthwhile. Happy Birthday</item>
+        <item>Mom I so lucky to have a mother like you. You are my best friend,Happy birthday sweet and kind mom.</item>
+        <item>Happy Birthday,Mom I want you to know that i am nothing without you,but i can be everything with you by my side. Love You!</item>
+        <item> ☆ Happy birthday, Mom. May God bless every second of every minute of every hour of every day you walk on this fine earth. ☆</item>
+        <item> A cute brother like you deserve all the happiness in life,For today and forever in time,Happy birthday bro,Have a nice day!</item>
+        <item>Enjoy your birthday, bro! You deserve it</item>
+        <item>Happy birthday to my favorite brother in the whole world</item>
+        <item>Have a wonderful birthday, my wonderful brother</item>
+        <item>A special wish for the wonderful brother you are and for all that you do. Happy Birthday!</item>
+        <item>Happy Birthday to my incredible brother you mean the world to me. I am so lucky to have a brother like you.</item>
+        <item>I am proud to call you my brother both today and everyday.</item>
+        <item>A very Happy Birthday to the sweetest kid in all the world.</item>
+        <item>Happy Birthday!! Your special day pops up once a year. I hope "It”s" filled with fun and good cheer.</item>
+        <item>Happy birthday to someone close to me. Hope all the angels are singing to you in heaven.</item>
+        <item>I should call you The Wall, because you support me and help me stand tall. Happy Birthday Bro!</item>
+        <item>Happy Birthday Dear Sister You Are Amazing You Are Special You Are Unique You Are Kind You Are Precious You Are Loved.</item>
+        <item>My crazy, loving, caring and fun little sister, life without you would have been a crazy twister. Happy birthday</item>
+        <item>Wish a fabulous birthday to my cutest baby</item>
+        <item>Your birthday is more special to me than you, because on this day, I got the most precious gift of my life. Happy Birthday</item>
+        <item>You are very special and "that’s" why you need to float with lots of smiles on your lovely face. Happy birthday.</item>
+        <item>This message goes out to my favorite girl who can always make me laugh !happy birthday</item>
+        <item>May be you are growing up older every year, but to me "you’ll" always remain as my little loving sister. Have a Happy Birthday</item>
+        <item>To a brother, a sister is all that a friend or a lover can never be. Thanks for filling the gaps in my life. Happy birthday sis</item>
+        <item>People believe that the heroes are one in many thousands, but I want to say that a sister like you is always one in a lifetime. Happy Birthday</item>
+        <item>Some special words on your birthday: keep smiling as long as "you’ve" those teeth.Happy Birthday</item>
+        <item> Happy Birthday to the sweetest person I know! Have an awesome day and stay blessed. Happy Birthday!</item>
+        <item>Tomorrow is still a mystery.Yesterday is already history.And today it is your BIRTHDAY!</item>
+        <item>Congratulations! "You’re" the only person that I "don’t" need a Facebook reminder to remember their birthday.</item>
+        <item> Happy Birthday to the one who has made my life so special.</item>
+        <item> Here is a special birthday wish for a special person who has a special place in my heart. Happy birthday. </item>
+        <item>My love for you is unconditional. Happy birthday, my love!</item>
+        <item>A few years ago you were young and smart,but know you are becoming an old fart...Happy birthday!</item>
+        <item> "I’d" like to wish a lovely and very Happy Birthday to the prince in my life.</item>
+        <item>Forget the fact that you are aging,and let us start celebrating!Happy birthday!</item>
+        <item> On your birthday, I thank God for your birth, as my world would be incomplete without you. Happy Birthday.
+</item>
+        <item>Thank you to all who post kind birthday wishes. I’m touched. The rest of you will be unfriended tomorrow.</item>
+        <item>Here is a special birthday wish for a special boyfriend who has a special place in my heart. Happy birthday.</item>
+
+    </string-array>
+</resources>
